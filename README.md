@@ -1,4 +1,4 @@
-# ML_basics
+# Machine learning basics
 Plain python implementations of basic machine learning algorithms:
 
 - Linear Regression
