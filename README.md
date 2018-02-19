@@ -1,2 +1,7 @@
 # ML_basics
-Plain python implementations of basic machine learning algorithms
+Plain python implementations of basic machine learning algorithms:
+
+- Linear Regression
+- Logistic Regression
+- Perceptron
+- k-nearest-neighbor
