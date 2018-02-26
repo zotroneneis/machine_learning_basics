@@ -5,3 +5,4 @@ Plain python implementations of basic machine learning algorithms:
 - Logistic Regression
 - Perceptron
 - k-nearest-neighbor
+- K-Means clustering
