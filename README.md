@@ -1,8 +1,8 @@
 # Machine learning basics
-Plain python implementations of basic machine learning algorithms. All algorithms are implemented from scratch using without additional machine learning libraries.
+Plain python implementations of basic machine learning algorithms. All algorithms are implemented from scratch without using additional machine learning libraries.
 
-- Linear Regression
-- Logistic Regression
+- [Linear Regression](linear_regression.ipynb)
+- [Logistic Regression](logistic_regression.ipynb)
 - Perceptron
 - k-nearest-neighbor
 - K-Means clustering
