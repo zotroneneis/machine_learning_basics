@@ -9,3 +9,6 @@ This repository contains implementations of basic machine learning algorithms in
 - [k-Means clustering](kmeans.ipynb)
 - [Simple neural network with one hidden layer](simple_neural_net.ipynb)
 - [Multinomial Logistic Regression](softmax_regression.ipynb)
+
+
+![alt text](perceptron_hyperplane.png)
