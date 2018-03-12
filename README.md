@@ -14,3 +14,8 @@ This repository contains implementations of basic machine learning algorithms in
   
   
 ![alt text](perceptron_hyperplane.png)
+
+
+## License
+
+See the LICENSE file for license rights and limitations (MIT).
