@@ -13,7 +13,9 @@ This repository contains implementations of basic machine learning algorithms in
 - [Decision tree for regression](decision_tree_regression.ipynb)
   
   
-![alt text](perceptron_hyperplane.png)
+![alt text](figures/decision_tree_predictions.png)
+
+![alt text](figures/perceptron_hyperplane.png)
 
 
 ## License
