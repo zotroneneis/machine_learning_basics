@@ -10,8 +10,7 @@ This repository contains implementations of basic machine learning algorithms in
 - [Simple neural network with one hidden layer](simple_neural_net.ipynb)
 - [Multinomial Logistic Regression](softmax_regression.ipynb)
 - [Decision tree for classification](decision_tree_classification.ipynb)
-
-  
+- [Decision tree for regression](decision_tree_regression.ipynb)
   
   
 ![alt text](perceptron_hyperplane.png)
