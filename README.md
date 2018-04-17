@@ -15,8 +15,6 @@ This repository contains implementations of basic machine learning algorithms in
   
 ![alt text](figures/decision_tree_predictions.png)
 
-![alt text](figures/perceptron_hyperplane.png)
-
 
 ## License
 
