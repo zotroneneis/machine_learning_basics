@@ -22,6 +22,9 @@ After several requests I started preparing notebooks on how to preprocess datase
 
 - [Image preprocessing](image_preprocessing.ipynb)
 
+![alt text](figures/image_preprocessing.png)
+
+
 ## Feedback
 
 If you have a favorite algorithm that should be included or spot a mistake in one of the notebooks, please let me know by creating a new issue.
