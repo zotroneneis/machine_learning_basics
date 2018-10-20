@@ -15,7 +15,13 @@ np.random.seed(123)
 # https://docs.microsoft.com/en-us/visualstudio/python/interactive-repl-ipython
 # need ipython to support ?
 # skip it at first
-# % %matplotlib inline
+#% matplotlib inline
+
+# install matplotlib
+# this line for ipython mac only
+import matplotlib 
+matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt
 
 class kNN():
     def __init__(self):
@@ -74,6 +80,10 @@ class kNN():
 digits = load_digits()
 X, y = digits.data, digits.target
 
+print(f'X_shape: {X.shape}')
+print(f'y_shape: {y.shape}')
+
+
 X_train, X_test, y_train, y_test = train_test_split(X, y)
 print(f'X_train shape: {X_train.shape}')
 print(f'y_train shape: {y_train.shape}')
@@ -82,14 +92,14 @@ print(f'y_test shape: {y_test.shape}')
 
 # Example digits
 # if plt install then you can use it
-'''
+
 fig = plt.figure(figsize=(10,8))
 for i in range(10):
     ax = fig.add_subplot(2, 5, i+1)
     plt.imshow(X[i].reshape((8,8)), cmap='gray')
     
 plt.show()
-'''
+
 
 
 
