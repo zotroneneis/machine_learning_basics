@@ -16,9 +16,9 @@ This repository contains implementations of basic machine learning algorithms in
 ![alt text](figures/decision_tree_predictions.png)
 
 
-## Data preprocessing
+## Data pre-processing
 
-After several requests I started preparing notebooks on how to preprocess datasets for machine learning. Within the next months I will add one notebook for each kind of dataset (text, images, ...). As before, the intention of these notebooks is to provide a basic understanding of the preprocessing steps, *not* to provide the most efficient implementations. 
+After several requests, I started preparing notebooks on how to preprocess datasets for machine learning. Within the next months I will add one notebook for each kind of dataset (text, images, ...). As before,the intention of these notebooks is to provide a basic understanding of the preprocessing steps, *not* to provide the most efficient implementations. 
 
 - [Image preprocessing](image_preprocessing.ipynb)
 - [Preprocessing a numerical/categorical dataset](data_preprocessing.ipynb)
