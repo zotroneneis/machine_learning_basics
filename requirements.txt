@@ -1,0 +1,2 @@
+seaborn==0.11.1
+pandas==1.2.1
