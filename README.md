@@ -26,6 +26,11 @@ After several requests I started preparing notebooks on how to preprocess datase
 ![alt text](figures/image_preprocessing.png)
 
 
+## Live demo
+Run the notebooks online without having to clone the repository or install jupyter: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zotroneneis/machine_learning_basics/HEAD).   
+   
+Note: this does not work for the `data_preprocessing.ipynb` and `image_preprocessing.ipynb` notebooks because they require downloading a dataset first.
+
 ## Feedback
 
 If you have a favorite algorithm that should be included or spot a mistake in one of the notebooks, please let me know by creating a new issue.
