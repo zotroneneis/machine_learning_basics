@@ -3,6 +3,7 @@
 This repository contains implementations of basic machine learning algorithms in plain Python (Python Version 3.6+). All algorithms are implemented from scratch without using additional machine learning libraries. The intention of these notebooks is to provide a basic understanding of the algorithms and their underlying structure, *not* to provide the most efficient implementations. 
 
 - [Linear Regression](linear_regression.ipynb)
+- [Bayesian Linear Regression](bayesian_linear_regression.ipynb)
 - [Logistic Regression](logistic_regression.ipynb)
 - [Perceptron](perceptron.ipynb)
 - [k-nearest-neighbor](k_nearest_neighbour.ipynb)
