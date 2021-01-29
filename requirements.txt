@@ -1,0 +1,4 @@
+seaborn==0.11.1
+pandas==1.2.1
+scikit-learn==0.24.1
+scikit-image==0.18.1
