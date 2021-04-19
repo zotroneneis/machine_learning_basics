@@ -12,6 +12,7 @@ This repository contains implementations of basic machine learning algorithms in
 - [Multinomial Logistic Regression](softmax_regression.ipynb)
 - [Decision tree for classification](decision_tree_classification.ipynb)
 - [Decision tree for regression](decision_tree_regression.ipynb)
+- [Support vector machines](support_vector_machines.ipynb)
   
   
 ![alt text](figures/decision_tree_predictions.png)
