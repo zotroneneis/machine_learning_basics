@@ -1,4 +1,4 @@
 seaborn==0.11.1
 pandas==1.2.1
-scikit-learn==1.0.1
+scikit-learn==1.5.0
 scikit-image==0.18.1
